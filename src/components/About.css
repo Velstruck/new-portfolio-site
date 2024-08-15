@@ -1,0 +1,19 @@
+.download-button {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #141414; 
+    border: 2px double rgb(124, 31, 31);
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.5s ease;
+  }
+  
+  .download-button:hover {
+    background-color: #202428; 
+    border: 2px double rgb(31, 124, 33);
+  }
+  

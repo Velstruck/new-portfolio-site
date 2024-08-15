@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './About.css';  
 export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -33,10 +34,10 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
-       					   </p>
+                    <span><a href="/VasudevRESUME.pdf" download="vasudev-resume.pdf" className="download-button">My Resume📝</a></span>
+       					</p>
                   </div>
-               </div>
+               </div> 
             </div>
          </div>
       </section>
