@@ -348,8 +348,8 @@ ul#nav li.current a { color: #F06000; }
 
 .reactjs {
    width: 75%;
-   -moz-animation: reactjs 2s ease;
-   -webkit-animation: reactjs 2s ease;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
 }
 @-moz-keyframes javascript {
    0%   { width: 0px;  }
