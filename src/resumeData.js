@@ -43,7 +43,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"CogifyZ Technologies",
+        "CompanyName":"CognifyZ Technologies",
         "specialization":"Web Development Intern",
         "MonthOfLeaving":"Jun 2024 - Jul",
         "YearOfLeaving":"2024",
