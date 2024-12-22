@@ -6,9 +6,9 @@ export default class Testimonials extends Component {
       <section id="testimonials">
         <div className="text-container">
           <div className="row">
-            <div className="two columns header-col">
+            {/* <div className="two columns header-col">
               <h1><span></span></h1>
-            </div>
+            </div> */}
             <div className="ten columns flex-container">
               <div className="flexslider">
                 <ul className="slides">
@@ -30,7 +30,7 @@ export default class Testimonials extends Component {
               </div> {/* div.flexslider ends */}
             </div> {/* div.flex-container ends */}
           </div> {/* row ends */}
-        </div>  {/* text-container ends */}
+        </div>
       </section>
         );
   }

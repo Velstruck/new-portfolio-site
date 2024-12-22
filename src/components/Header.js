@@ -40,7 +40,7 @@ export default class Header extends Component {
 
           <p className="scrolldown">
             {/* Updated href attribute */}
-            <a className="smoothscroll" href="#home"><i className="icon-down-circle"></i></a>
+            <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
           </p>
 
         </header>

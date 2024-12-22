@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at Dr. Ambedkar Institute of Technology and pursuing my B.E. from here. I am a self taught Developer, currently diving deeper into Machine Learning.",
+    "aboutme":"I am currently a final year student at Dr. Ambedkar Institute of Technology and pursuing my B.E. from here. I am a self taught Developer, currently diving deeper into Web Development.",
     "address":"India",
     "website":"http://github.com/velstruck",
     "education":[
@@ -49,13 +49,7 @@ let resumeData = {
         "YearOfLeaving":"2024",
         "Achievements":""
       },
-      // {
-      //   "CompanyName":"Some Company",
-      //   "specialization":"Some specialization",
-      //   "MonthOfLeaving":"Jan",
-      //   "YearOfLeaving":"2018",
-      //   "Achievements":"Some Achievements"
-      // }
+
     ],
     "skillsDescription":"My Skills",
     "skills":[
@@ -77,6 +71,12 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Gymmate",
+        "description":"Gym Web App",
+        "imgurl":"images/portfolio/gymmate2.png",
+        "githubUrl": 'https://gymmate-webapp.vercel.app'
+      },
+      {
         "name":"AI Resume Parser",
         "description":"Application",
         "imgurl":"images/portfolio/res.png",
@@ -94,12 +94,6 @@ let resumeData = {
         "imgurl":"images/portfolio/farmer.png",
         "githubUrl": 'https://github.com/Velstruck/Farmer-system-management'
       },
-      {
-        "name":"Discord Bot",
-        "description":"Currently Building",
-        "imgurl":"images/portfolio/bot.png",
-        "githubUrl": 'https://github.com/Velstruck'
-      }
     ],
     "testimonials":[
       // {
